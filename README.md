@@ -11,7 +11,7 @@ Documenting my journey through:
 
 - Codeforces
 - LeetCode
-- GeeksForGeeks
+  
 
 ---
 
@@ -67,10 +67,10 @@ DSA-CP-Grindset/
 ## Profiles
 
 ### Codeforces
-(Add your profile link here)
+https://codeforces.com/profile/raghav_guptaa
 
 ### Leetcode
-(Add your profile link here)
+https://leetcode.com/u/raghavguptaa77/
 
 ---
 
