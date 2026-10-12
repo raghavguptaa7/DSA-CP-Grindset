@@ -11,7 +11,7 @@ class Solution {
 
         Arrays.sort(digits);
 
-        if (negative) {
+        if (negative) {q
             reverse(digits);
             return -Long.parseLong(new String(digits));
         }
